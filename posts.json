@@ -1,4 +1,5 @@
 [
-  {"id": 1, "title": "Title 1"},
-  {"id": 2, "title": "Title 2"}
+"name": "Zara Ali",
+"age" : "67",
+"sex": "female"
 ]

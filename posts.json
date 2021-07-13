@@ -1,5 +1,5 @@
 {
-"name": "Zara Ali",
+"name": ["Ford", "BMW", "Fiat"],
 "age" : "67",
 "sex": "female"
 }
